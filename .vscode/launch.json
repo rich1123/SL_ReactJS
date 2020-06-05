@@ -14,7 +14,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "$C:\Users\RICH\SL_ReactJS\index.html"
+            "program": "${workspaceFolder}/index.html"
         }
     ]
 }
